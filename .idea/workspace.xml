@@ -175,7 +175,7 @@
     <property name="ChangesTree.GroupingKeys" value="module&#10;repository&#10;directory" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563847989649" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563849203390" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Facets" />
@@ -298,7 +298,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563800187304</updated>
-      <workItem from="1563800189030" duration="7902000" />
+      <workItem from="1563800189030" duration="7946000" />
     </task>
     <task id="LOCAL-00001" summary="测试git">
       <created>1563802510837</created>
@@ -325,7 +325,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7902000" />
+    <option name="totallyTimeSpent" value="7946000" />
   </component>
   <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
